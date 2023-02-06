@@ -1,0 +1,105 @@
+.firstbox {
+  height: 264px;
+  width: 100px;
+  position: relative;
+  right: 8px;
+  top: -65px;
+  background-color: #bd9b83;
+  border-radius: 10px;
+}
+
+.secondbox {
+  /* border: 2px solid red; */
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 51px;
+  top: -243px;
+  background-color: #f17373;
+  border-radius: 23px;
+}
+
+.thirdbox {
+  border: 5px solid black;
+  height: 400px;
+  width: 1030px;
+  position: relative;
+  bottom: 448px;
+  left: 107px;
+  background-color: white;
+  z-index: 2;
+  border-radius: 10px;
+  /* box-shadow: 2px 4px black; */
+  box-shadow: 3px 3px 13px grey;
+}
+
+.fourthbox {
+  height: 123px;
+  width: 200px;
+  background-color: #f17373;
+  position: relative;
+  bottom: 499px;
+  left: 960px;
+  border-top-right-radius: 10px;
+  display: inline-block;
+}
+
+.container {
+  height: 90vh;
+  width: 90vw;
+}
+
+img {
+  height: 325px;
+  width: 478px;
+  position: relative;
+  left: 100px;
+}
+
+.mainbox {
+  position: relative;
+  bottom: 250px;
+  position: relative;
+  left: 630px;
+  display: inline-block;
+}
+
+input {
+  width: 300px;
+  margin: 10px;
+  border: none;
+}
+
+#checkbox {
+  width: 30px;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 10px;
+}
+
+#btn {
+  background-color: #f17373;
+  color: white;
+  font-weight: bolder;
+  padding: 6px;
+  border: none;
+}
+
+hr {
+  width: 296px;
+  position: relative;
+  border: 1px solid black;
+}
+
+.code {
+  color: gray;
+  position: relative;
+  left: 10px;
+}
+
+h1 {
+  position: relative;
+  bottom: 12px;
+  left: 47px;
+}
+body{max-height: 100vh;}
